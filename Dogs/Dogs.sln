@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dogs", "Dogs\Dogs.csproj", "{957E454F-F55B-460D-B770-5BD082F83296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dogs.Tests", "Dogs.Tests\Dogs.Tests.csproj", "{C2DFB154-3E6D-43DE-8E89-9332164773AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{957E454F-F55B-460D-B770-5BD082F83296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{957E454F-F55B-460D-B770-5BD082F83296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{957E454F-F55B-460D-B770-5BD082F83296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{957E454F-F55B-460D-B770-5BD082F83296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2DFB154-3E6D-43DE-8E89-9332164773AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DFB154-3E6D-43DE-8E89-9332164773AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DFB154-3E6D-43DE-8E89-9332164773AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DFB154-3E6D-43DE-8E89-9332164773AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
